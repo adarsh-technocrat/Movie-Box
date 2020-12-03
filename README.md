@@ -16,15 +16,11 @@ Movie Box is an Application build using Flutter ,Bloc Architecture with Rxdart s
  - eva_icons_flutter: ^2.0.1
  - carousel_slider: ^2.3.1
  - http: ^0.12.2
-  
-  # TO BE USED IN LATER COMMITS
-
-  # flutter_vector_icons: ^0.2.1
-  # flutter_staggered_animations: ^0.1.2
-  # flutter_rating_bar: ^3.2.0+1
-  # page_indicator: ^0.3.0
-  # youtube_player_flutter: ^7.0.0+7
-  
+ - flutter_vector_icons: ^0.2.1
+ - flutter_staggered_animations: ^0.1.2
+ - flutter_rating_bar: ^3.2.0+1
+ - page_indicator: ^0.3.0
+ - youtube_player_flutter: ^7.0.0+7
  - dio: ^3.0.10
  - cached_network_image: ^2.4.1
  - progress_indicators: ^0.1.2
