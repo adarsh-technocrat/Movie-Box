@@ -5,10 +5,7 @@ Movie Box is an Application build using Flutter ,Bloc Architecture with Rxdart s
 
 
 # App Reference-style: 
-![text][logo]
-
-[logo]: https://play.google.com/store/apps/details?id=com.appalipse.watchbox"	
-WatchBox - Movies & TV shows watchlist"
+[WatchBox - Movies & TV shows watchlist](https://play.google.com/store/apps/details?id=com.appalipse.watchbox"WatchBox - Movies & TV shows watchlist")
 
 
 ## Dependencies 
